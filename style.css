@@ -5,3 +5,5 @@
 .brand .brand-icon{width:32px;height:36px;object-fit:contain;margin-right:7px}.footer-brand .brand-icon{width:27px;height:30px;object-fit:contain} @media(max-width:650px){.brand .brand-icon{width:28px;height:31px}.footer-brand .brand-icon{width:23px;height:26px}}
 
 header .brand{min-width:0;flex-shrink:1}header .brand img.brand-icon{display:block;width:28px;height:32px;max-width:28px;max-height:32px;flex:0 0 28px;object-fit:contain}header .github{flex-shrink:0}.footer-brand img.brand-icon{display:block;width:24px;height:28px;max-width:24px;max-height:28px;flex:0 0 24px;object-fit:contain}
+
+.trademark{font-size:11px;align-self:flex-start;margin:3px 0 0 -5px}.github{display:inline-flex;align-items:center;justify-content:center;padding:8px}.github svg{display:block}footer{padding:32px 0 38px;font-size:13px;gap:24px}.footer-details p{margin:9px 0 0;font-size:12px;line-height:1.6}.footer-brand{gap:16px}.footer-brand img.brand-icon{width:34px;height:40px;max-width:34px;max-height:40px;flex-basis:34px}@media(max-width:650px){footer{align-items:flex-start;flex-direction:column;gap:20px}.footer-details p{max-width:260px}.trademark{margin-top:1px}}
